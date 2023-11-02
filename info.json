@@ -1,12 +1,7 @@
 {
-  "user_one": {
-   "password": "$2y$12$bXTM8xJOPQB5P0znQ.PlMORCopCanBZlrNRK42JGotP/Enc1MCbaS",
-   "devices": ["REDMINOTE7DFA6D4AA53FFC362"],
-   "expiry": "31-01-2024 12:00 PM"
-  },
-  "Joelson_Mods": {
-   "password": "$2y$12$YneVqnWqieevO8oFXEfY/uD4y2BcfvCmXtQ.8xGhc4vbZafLxhECy",
-   "devices": [],
-   "expiry": "31-01-2024 12:00 PM"
-  },
+  "tesBem15": {
+   "password": "$2y$12$yU8GLzNk2lW4f5nNpezLrOM5hbfA2nIA2iS3SA5uw9soYFtntTPAm",
+   "devices": ["lakdmw"],
+   "expiry": "05-11-2023 12:00 PM"
+ },
 }
